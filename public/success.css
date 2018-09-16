@@ -1,0 +1,11 @@
+body{
+	background:url(https://images.pexels.com/photos/210186/pexels-photo-210186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+}
+
+h1{
+	color:white;
+	text-align:center;
+	margin-top:200px;
+	text-shadow:1px 1px 1px black;
+	font-size:50px;
+}
